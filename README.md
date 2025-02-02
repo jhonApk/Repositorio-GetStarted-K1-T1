@@ -90,7 +90,7 @@ git pull
 ### 11. Clonando um Repositório
 Para clonar um repositório remoto em sua máquina local:
 ```bash
-git clone https://url-do-repositorio.git
+git clone git@github.com:jhonApk/Repositorio-do-git
 ```
 
 ## Fluxo de Trabalho Básico
